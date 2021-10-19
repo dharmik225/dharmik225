@@ -24,6 +24,7 @@
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
 <br/>
+<p align="center">
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></code>
@@ -37,9 +38,10 @@
 #
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></code>
 <code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></code>
-<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/></code>
 #
+<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/></code>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/></code>
+</p>
 <br/>
 
 #
@@ -86,6 +88,9 @@
   </a>
   <a href="https://www.instagram.com/dharmik_bhadkoliya/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/dharmik225/dharmik225/blob/main/SVG/instagram.svg"/></code>
+  </a>
+   <a href="https://api.whatsapp.com/send?phone=919033748415" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/dharmik225/dharmik225/blob/main/SVG/whatsapp.svg"/></code>
   </a>  
 </p>
 <br/>
